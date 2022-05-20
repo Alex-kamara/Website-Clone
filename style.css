@@ -1,0 +1,105 @@
+a:visited, a:link, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: gray;
+}
+
+h1 {
+    font-size: 82px;
+}
+
+.logo {
+    display: flex;
+    text-align: left;
+    justify-content: flex-start;
+}
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    font-size: 22px;
+    /* text-align: left; */
+}
+
+.navbar a {
+    padding: 5px;
+}
+
+.navbar2 {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 36px;
+    /* text-align: left; */
+}
+
+.navbar2 a {
+    padding: 5px;
+    font-size: 36px;
+    font-family: Helvetica, sans-serif;
+}
+
+a, h1 {
+    font-family: Helvetica, sans-serif;
+}
+
+img {
+    height: 473.66px;
+    width: 710.5px;
+}
+
+.imagewtext3 {
+    text-align: justify;
+    width: 710.5px;
+    font-size: 18px;
+    padding: 20px;
+}
+
+.imagewtext3 img {
+    display: block;
+    margin: 0 auto;
+}
+
+.imagewtext2 {
+    text-align: justify;
+    width: 710.5px;
+    font-size: 18px;
+    padding: 20px;
+}
+
+.imagewtext2 img {
+    display: block;
+    margin: 0 auto;
+}
+
+.imagewtext1 {
+    text-align: justify;
+    width: 710.5px;
+    font-size: 18px;
+    padding: 20px;
+}
+
+.imagewtext1 img {
+    display: block;
+    margin: 0 auto;
+}
+
+.imagewtext4 {
+    text-align: justify;
+    width: 710.5px;
+    font-size: 18px;
+    padding: 20px;
+}
+
+.imagewtext4 img {
+    display: block;
+    margin: 0 auto;
+}
+
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+}
